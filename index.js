@@ -19,7 +19,7 @@ const titleCased = () => {
         Object.assign({},tutorial.map(t)=>{
         return Object.assign({},t.charAt(0).toUpperCase() + t.substr(1));
       }) 
-      })
+      }
+}titleCased)
       )
     );
-}titleCased
